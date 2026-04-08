@@ -56,6 +56,6 @@ Dialog.defaultProps = {
     header: true,
     size: "lg",
     technical: true,
-    title: "Odoo",
+    title: "Aly Suite",
     withBodyPadding: true,
 };
