@@ -2096,7 +2096,7 @@ class JsonRPCDispatcher(Dispatcher):
                           # distinct from the HTTP status code. This
                           # code is ignored and the value 200 (while
                           # misleading) is totally arbitrary.
-            'message': "Odoo Server Error",
+            'message': "Aly Suite Server Error",
             'data': serialize_exception(exc),
         }
         if isinstance(exc, NotFound):
@@ -2104,7 +2104,7 @@ class JsonRPCDispatcher(Dispatcher):
             error['message'] = "404: Not Found"
         elif isinstance(exc, SessionExpiredException):
             error['code'] = 100
-            error['message'] = "Odoo Session Expired"
+            error['message'] = "Aly Suite Session Expired"
 
         return self._response(error=error)
 
