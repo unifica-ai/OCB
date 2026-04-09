@@ -37,7 +37,7 @@
                     <table cellspacing="0" cellpadding="0" border="0">
                         <tbody>
                             <tr>
-                                <td t-if="has_button_access" t-att-style="'border-radius: 3px; text-align: center; background: ' + (company.secondary_color if company.secondary_color else '#875A7B')">
+                                <td t-if="has_button_access" t-att-style="'border-radius: 3px; text-align: center; background: ' + (company.secondary_color if company.secondary_color else '#3b5cff')">
                                     <a t-att-href="button_access['url']" style="font-size: 12px; color: #FFFFFF; display: block; padding: 8px 12px 11px; text-decoration: none !important; font-weight: 400;">
                                         <t t-out="button_access['title']"/>
                                     </a>
@@ -57,7 +57,7 @@
                                 <td t-if="actions">
                                     <t t-foreach="actions" t-as="action">
                                         |
-                                        <a t-att-href="action['url']" style="font-size: 12px; color: #875A7B; text-decoration:none !important;">
+                                        <a t-att-href="action['url']" style="font-size: 12px; color: #3b5cff; text-decoration:none !important;">
                                             <t t-out="action['title']"/>
                                         </a>
                                     </t>
@@ -102,7 +102,7 @@
     </p>
 </div>
 <p style="color: #555555; font-size:11px;">
-    Powered by <a target="_blank" href="https://www.aly-ai.com?utm_source=db&amp;utm_medium=email" style="color: #875A7B;">Aly Suite</a>
+    Powered by <a target="_blank" href="https://www.aly-ai.com?utm_source=db&amp;utm_medium=email" style="color: #3b5cff;">Aly Suite</a>
 </p>
 </div>
 </body></html>
@@ -172,7 +172,7 @@
 </td></tr>
 <!-- POWERED BY -->
 <tr><td align="center" style="min-width: 590px;">
-        Powered by <a target="_blank" href="https://www.aly-ai.com?utm_source=db&amp;utm_medium=email" style="color: #875A7B;">Aly Suite</a>
+        Powered by <a target="_blank" href="https://www.aly-ai.com?utm_source=db&amp;utm_medium=email" style="color: #3b5cff;">Aly Suite</a>
 </td></tr>
 </table>
 </body>

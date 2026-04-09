@@ -11,7 +11,7 @@ const COLORS_BRIGHT = [
     "#ff9896",
     "#9467bd",
     "#c5b0d5",
-    "#875a7b", // ~ Enterprise
+    "#3b5cff", // ~ Enterprise
     "#c49c94",
     "#e377c2",
     "#dcd0d9", // Dashboards Primary

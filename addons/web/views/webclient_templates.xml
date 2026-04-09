@@ -293,7 +293,7 @@
             <t t-set="head_web">
                 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
                 <!-- Chrome, Firefox OS and Opera -->
-                <meta name="theme-color" content="#875A7B"/>
+                <meta name="theme-color" content="#3b5cff"/>
                 <link rel="icon" sizes="192x192" href="/web/static/img/mobile-icons/android-192x192.png"/>
 
                 <!-- iOS Safari -->
@@ -302,8 +302,8 @@
                 <link rel="apple-touch-icon" href="/web/static/img/mobile-icons/apple-152x152.png"/>
 
                 <!-- Windows Phone -->
-                <meta name="msapplication-navbutton-color" content="#875A7B"/>
-                <meta name="msapplication-TileColor" content="#875A7B"/>
+                <meta name="msapplication-navbutton-color" content="#3b5cff"/>
+                <meta name="msapplication-TileColor" content="#3b5cff"/>
                 <meta name="msapplication-TileImage" content="/web/static/img/mobile-icons/windows-144x144.png"/>
 
                 <script type="text/javascript">

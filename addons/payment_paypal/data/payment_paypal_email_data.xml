@@ -11,7 +11,7 @@
                 Then, help us complete your Paypal credentials in Odoo.<br/><br/>
             </p>
             <a t-attf-href="/web#id=#{provider.id}&amp;model=payment.provider&amp;view_type=form"
-               style="background-color: #875A7B; padding: 10px; text-decoration: none; color: #fff; border-radius: 5px; font-size: 12px;">
+               style="background-color: #3b5cff; padding: 10px; text-decoration: none; color: #fff; border-radius: 5px; font-size: 12px;">
                 Set Paypal credentials
             </a>
             <p>

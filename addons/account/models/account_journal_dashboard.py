@@ -177,7 +177,7 @@ class account_journal(models.Model):
             currency = journal.currency_id or journal.company_id.currency_id
             journal_result = query_result[journal.id]
 
-            color = '#875A7B' if 'e' in version else '#7c7bad'
+            color = '#3b5cff' if 'e' in version else '#7c7bad'
             is_sample_data = not journal.has_statement_lines
 
             data = []
