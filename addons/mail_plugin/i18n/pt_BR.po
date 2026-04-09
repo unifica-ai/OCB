@@ -12,7 +12,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-06 13:31+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
@@ -70,10 +70,10 @@ msgstr "Receita anual"
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #, python-format
 msgid ""
-"Attachments could not be logged in Odoo because their total size exceeded "
+"Attachments could not be logged in Aly Suite because their total size exceeded "
 "the allowed maximum."
 msgstr ""
-"Os anexos não puderam ser registrados no Odoo porque o tamanho total excedeu"
+"Os anexos não puderam ser registrados no Aly Suite porque o tamanho total excedeu"
 " o máximo permitido."
 
 #. module: mail_plugin
@@ -513,10 +513,10 @@ msgstr "Nenhuma empresa vinculada a este contato pôde ser enriquecida"
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 #, python-format
-msgid "No company linked to this contact could be enriched or found in Odoo"
+msgid "No company linked to this contact could be enriched or found in Aly Suite"
 msgstr ""
 "Nenhuma empresa vinculada a este contato pôde ser enriquecida ou encontrada "
-"no Odoo"
+"no Aly Suite"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -571,15 +571,15 @@ msgstr "Notificação"
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #, python-format
-msgid "Odoo Access Token"
-msgstr "Token de acesso do Odoo"
+msgid "Aly Suite Access Token"
+msgstr "Token de acesso do Aly Suite"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #, python-format
-msgid "Odoo Server URL"
-msgstr "URL do servidor Odoo"
+msgid "Aly Suite Server URL"
+msgstr "URL do servidor Aly Suite"
 
 #. module: mail_plugin
 #: model:ir.model.constraint,message:mail_plugin.constraint_res_partner_iap_unique_partner_id
@@ -667,8 +667,8 @@ msgstr "Receitas"
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #, python-format
-msgid "Save in Odoo"
-msgstr "Salvar no Odoo"
+msgid "Save in Aly Suite"
+msgstr "Salvar no Aly Suite"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -702,8 +702,8 @@ msgstr "Buscar na base de dados"
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 #, python-format
-msgid "Search In Odoo"
-msgstr "Buscar no Odoo"
+msgid "Search In Aly Suite"
+msgstr "Buscar no Aly Suite"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -716,8 +716,8 @@ msgstr "Buscar contato"
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 #, python-format
-msgid "Search contact in Odoo..."
-msgstr "Buscar contato no Odoo..."
+msgid "Search contact in Aly Suite..."
+msgstr "Buscar contato no Aly Suite..."
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -753,8 +753,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #, python-format
-msgid "This contact does not exist in the Odoo database."
-msgstr "Este contato não existe na base de dados do Odoo."
+msgid "This contact does not exist in the Aly Suite database."
+msgstr "Este contato não existe na base de dados do Aly Suite."
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -789,10 +789,10 @@ msgstr "Este usuário não existe"
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 #, python-format
 msgid ""
-"Warning: Attachments could not be logged in Odoo because their total size "
+"Warning: Attachments could not be logged in Aly Suite because their total size "
 "exceeded the allowed maximum."
 msgstr ""
-"Aviso: os anexos não puderam ser registrados no Odoo porque o tamanho total "
+"Aviso: os anexos não puderam ser registrados no Aly Suite porque o tamanho total "
 "excedeu o máximo permitido."
 
 #. module: mail_plugin
@@ -837,8 +837,8 @@ msgstr "É necessário especificar ao menos o partner_id ou o nome e o e-mail"
 
 #. module: mail_plugin
 #: model_terms:ir.ui.view,arch_db:mail_plugin.app_auth
-msgid "access your Odoo database?"
-msgstr "acesso à sua base de dados Odoo?"
+msgid "access your Aly Suite database?"
+msgstr "acesso à sua base de dados Aly Suite?"
 
 #. module: mail_plugin
 #. odoo-javascript

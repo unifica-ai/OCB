@@ -43,7 +43,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-04 01:32+0000\n"
 "PO-Revision-Date: 2022-09-22 05:44+0000\n"
@@ -337,10 +337,10 @@ msgstr ". Certifique-se que este seja um comportamento esperado."
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
 msgid ""
-". The journal entries need to be computed by Odoo before being posted in "
+". The journal entries need to be computed by Aly Suite before being posted in "
 "your company's currency."
 msgstr ""
-". O Odoo necessita de recalcular o diário de lançamentos antes de serem "
+". O Aly Suite necessita de recalcular o diário de lançamentos antes de serem "
 "lançados na moeda da sua empresa."
 
 #. module: account
@@ -5317,10 +5317,10 @@ msgstr "Exemplo de data"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_financial_year_op__opening_date
 msgid ""
-"Date from which the accounting is managed in Odoo. It is the date of the "
+"Date from which the accounting is managed in Aly Suite. It is the date of the "
 "opening entry."
 msgstr ""
-"Data a partir de qual a gestão contabilística é feita no Odoo. É a data da "
+"Data a partir de qual a gestão contabilística é feita no Aly Suite. É a data da "
 "primeira entrada."
 
 #. module: account
@@ -9314,12 +9314,12 @@ msgstr "Lançamento Manual"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal__inbound_payment_method_line_ids
 msgid ""
-"Manual: Get paid by any method outside of Odoo.\n"
+"Manual: Get paid by any method outside of Aly Suite.\n"
 "Payment Providers: Each payment provider has its own Payment Method. Request a transaction on/to a card thanks to a payment token saved by the partner when buying or subscribing online.\n"
 "Batch Deposit: Collect several customer checks at once generating and submitting a batch deposit to your bank. Module account_batch_payment is necessary.\n"
 "SEPA Direct Debit: Get paid in the SEPA zone thanks to a mandate your partner will have granted to you. Module account_sepa is necessary.\n"
 msgstr ""
-"Manual: ser pago por qualquer método fora do Odoo.\n"
+"Manual: ser pago por qualquer método fora do Aly Suite.\n"
 "Provedores de pagamento: cada provedor de pagamento tem seu próprio método de pagamento. Solicite uma transação em/para um cartão graças a um token de pagamento salvo pelo usuário ao comprar ou assinar online.\n"
 "Depósito em lote: colete vários cheques de clientes de uma só vez, gerando e enviando um depósito em lote ao seu banco. O módulo account_batch_payment é necessário.\n"
 "Débito direto SEPA: receba pagamentos na zona SEPA graças a um mandato que seu usuário terá concedido a você. O módulo account_sepa é necessário.\n"
@@ -9327,28 +9327,28 @@ msgstr ""
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal__outbound_payment_method_line_ids
 msgid ""
-"Manual: Pay by any method outside of Odoo.\n"
-"Check: Pay bills by check and print it from Odoo.\n"
+"Manual: Pay by any method outside of Aly Suite.\n"
+"Check: Pay bills by check and print it from Aly Suite.\n"
 "SEPA Credit Transfer: Pay in the SEPA zone by submitting a SEPA Credit Transfer file to your bank. Module account_sepa is necessary.\n"
 msgstr ""
-"Manual: pagar por qualquer método fora do Odoo.\n"
-"Cheque: pague contas com cheque e imprima-o no Odoo.\n"
+"Manual: pagar por qualquer método fora do Aly Suite.\n"
+"Cheque: pague contas com cheque e imprima-o no Aly Suite.\n"
 "Transferência de crédito SEPA: pague na zona SEPA enviando um arquivo de transferência de crédito SEPA para seu banco. O módulo account_sepa é necessário.\n"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_payment__payment_method_line_id
 #: model:ir.model.fields,help:account.field_account_payment_register__payment_method_line_id
 msgid ""
-"Manual: Pay or Get paid by any method outside of Odoo.\n"
+"Manual: Pay or Get paid by any method outside of Aly Suite.\n"
 "Payment Providers: Each payment provider has its own Payment Method. Request a transaction on/to a card thanks to a payment token saved by the partner when buying or subscribing online.\n"
-"Check: Pay bills by check and print it from Odoo.\n"
+"Check: Pay bills by check and print it from Aly Suite.\n"
 "Batch Deposit: Collect several customer checks at once generating and submitting a batch deposit to your bank. Module account_batch_payment is necessary.\n"
 "SEPA Credit Transfer: Pay in the SEPA zone by submitting a SEPA Credit Transfer file to your bank. Module account_sepa is necessary.\n"
 "SEPA Direct Debit: Get paid in the SEPA zone thanks to a mandate your partner will have granted to you. Module account_sepa is necessary.\n"
 msgstr ""
-"Manual: pagar ou ser pago por qualquer método fora do Odoo.\n"
+"Manual: pagar ou ser pago por qualquer método fora do Aly Suite.\n"
 "Provedores de pagamento: cada provedor de pagamento tem seu próprio método de pagamento. Solicite uma transação em/para um cartão graças a um token de pagamento salvo pelo usuário ao comprar ou assinar online.\n"
-"Cheque: pague contas com cheque e imprima-o no Odoo.\n"
+"Cheque: pague contas com cheque e imprima-o no Aly Suite.\n"
 "Depósito em lote: colete vários cheques de clientes de uma só vez, gerando e enviando um depósito em lote ao seu banco. É necessário o módulo account_batch_payment.\n"
 "Transferência de crédito SEPA: Pague na zona SEPA enviando um arquivo de transferência de crédito SEPA para o seu banco. O módulo account_sepa é necessário.\n"
 "Débito direto SEPA: receba pagamentos na zona SEPA graças a um mandato que seu usuário lhe concederá. O módulo account_sepa é necessário.\n"
@@ -10171,35 +10171,35 @@ msgstr "Outubro"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_journal__invoice_reference_model__odoo
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Aly Suite"
+msgstr "Aly Suite"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_report_expression__engine__domain
-msgid "Odoo Domain"
-msgstr "Domínio do Odoo"
+msgid "Aly Suite Domain"
+msgstr "Domínio do Aly Suite"
 
 #. module: account
 #: model_terms:ir.actions.act_window,help:account.action_bank_statement_tree
 msgid ""
-"Odoo allows you to reconcile a statement line directly with\n"
+"Aly Suite allows you to reconcile a statement line directly with\n"
 "                the related sale or purchase invoices."
 msgstr ""
-"O Odoo permite que você reconcilie uma linha de extrato diretamente com\n"
+"O Aly Suite permite que você reconcilie uma linha de extrato diretamente com\n"
 "                as faturas de venda ou compra relacionadas."
 
 #. module: account
 #: model_terms:ir.actions.act_window,help:account.res_partner_action_customer
-msgid "Odoo helps you easily track all activities related to a customer."
+msgid "Aly Suite helps you easily track all activities related to a customer."
 msgstr ""
-"O Odoo ajuda você a rastrear facilmente todas as atividades relacionadas a "
+"O Aly Suite ajuda você a rastrear facilmente todas as atividades relacionadas a "
 "um cliente."
 
 #. module: account
 #: model_terms:ir.actions.act_window,help:account.res_partner_action_supplier
-msgid "Odoo helps you easily track all activities related to a supplier."
+msgid "Aly Suite helps you easily track all activities related to a supplier."
 msgstr ""
-"Odoo ajuda-o a seguir facilmente todas as atividades relacionadas com um "
+"Aly Suite ajuda-o a seguir facilmente todas as atividades relacionadas com um "
 "fornecedor."
 
 #. module: account
@@ -12712,13 +12712,13 @@ msgid ""
 "\n"
 "Any file extension will be accepted.\n"
 "\n"
-"Only PDF and XML files will be interpreted by Odoo"
+"Only PDF and XML files will be interpreted by Aly Suite"
 msgstr ""
 "Envie um e-mail separado para cada fatura.\n"
 "\n"
 "Qualquer extensão de arquivo será aceita.\n"
 "\n"
-"Apenas arquivos PDF e XML serão interpretados pelo Odoo"
+"Apenas arquivos PDF e XML serão interpretados pelo Aly Suite"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.account_send_payment_receipt_by_email_action
@@ -15303,7 +15303,7 @@ msgstr ""
 msgid ""
 "This option permanently removes any track of email after it's been sent, "
 "including from the Technical menu in the Settings, in order to preserve "
-"storage space of your Odoo database."
+"storage space of your Aly Suite database."
 msgstr ""
 
 #. module: account
@@ -15961,7 +15961,7 @@ msgstr ""
 #: model:ir.model.fields,help:account.field_account_payment__quick_edit_total_amount
 msgid ""
 "Use this field to encode the total amount of the invoice.\n"
-"Odoo will automatically create one invoice line with default values to match it."
+"Aly Suite will automatically create one invoice line with default values to match it."
 msgstr ""
 
 #. module: account
@@ -16193,7 +16193,7 @@ msgid ""
 "Vendors bills can be pre-generated based on purchase\n"
 "                orders or receipts. This allows you to control bills\n"
 "                you receive from your vendor according to the draft\n"
-"                document in Odoo."
+"                document in Aly Suite."
 msgstr ""
 
 #. module: account
@@ -16353,7 +16353,7 @@ msgstr ""
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.account_tour_upload_bill
-msgid "With Odoo, you won't have to record bills manually"
+msgid "With Aly Suite, you won't have to record bills manually"
 msgstr ""
 
 #. module: account
@@ -16410,7 +16410,7 @@ msgstr ""
 #: model:ir.model.fields,help:account.field_account_journal__invoice_reference_model
 msgid ""
 "You can choose different models for each type of reference. The default one "
-"is the Odoo reference."
+"is the Aly Suite reference."
 msgstr ""
 
 #. module: account

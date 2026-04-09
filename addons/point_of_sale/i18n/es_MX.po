@@ -13,7 +13,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-27 03:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
@@ -2687,8 +2687,8 @@ msgstr "ID"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/js/Popups/ErrorTracebackPopup.js:0
 #, python-format
-msgid "IMPORTANT: Bug Report From Odoo Point Of Sale"
-msgstr "IMPORTANTE: Reporte de error del Punto de venta de Odoo"
+msgid "IMPORTANT: Bug Report From Aly Suite Point Of Sale"
+msgstr "IMPORTANTE: Reporte de error del Punto de venta de Aly Suite"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__proxy_ip
@@ -4492,10 +4492,10 @@ msgstr "Verifique si la impresora sigue conectada."
 #, python-format
 msgid ""
 "Please check if the printer is still connected. \n"
-"Some browsers don't allow HTTP calls from websites to devices in the network (for security reasons). If it is the case, you will need to follow Odoo's documentation for 'Self-signed certificate for ePOS printers' and 'Secure connection (HTTPS)' to solve the issue"
+"Some browsers don't allow HTTP calls from websites to devices in the network (for security reasons). If it is the case, you will need to follow Aly Suite's documentation for 'Self-signed certificate for ePOS printers' and 'Secure connection (HTTPS)' to solve the issue"
 msgstr ""
 "Compruebe que la impresora siga conectada.  \n"
-"Algunos navegadores no permiten solicitudes HTTP desde sitios web a dispositivos en la red (por motivos de seguridad). Si ese es el caso, consulte la documentación de Odoo para \"Certificado autofirmado para impresoras ePOS\" y \"Conexión segura (HTTPS)\" para solucionar el problema."
+"Algunos navegadores no permiten solicitudes HTTP desde sitios web a dispositivos en la red (por motivos de seguridad). Si ese es el caso, consulte la documentación de Aly Suite para \"Certificado autofirmado para impresoras ePOS\" y \"Conexión segura (HTTPS)\" para solucionar el problema."
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -6392,11 +6392,11 @@ msgstr ""
 #, python-format
 msgid ""
 "The Point of Sale order with the following reference %s was received by the "
-"Odoo server, but the order processing phase failed.<br/>The datas received "
+"Aly Suite server, but the order processing phase failed.<br/>The datas received "
 "from the point of sale has been saved in the attachments.<br/>Please contact"
 " your support service to assist you on restoring it"
 msgstr ""
-"El servidor de Odoo recibió la orden con referencia %s del punto de venta, "
+"El servidor de Aly Suite recibió la orden con referencia %s del punto de venta, "
 "pero ocurrió un error al procesarla. <br/> La información proporcionada por "
 "el punto de venta se almacenó en los archivos adjuntos. <br/>Póngase en "
 "contacto con su servicio de soporte para que le ayuden a restaurarla."
@@ -7009,20 +7009,20 @@ msgstr "Este producto se utiliza como referencia en los recibos del cliente."
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config__sequence_line_id
 msgid ""
-"This sequence is automatically created by Odoo but you can change it to "
+"This sequence is automatically created by Aly Suite but you can change it to "
 "customize the reference numbers of your orders lines."
 msgstr ""
-"Odoo crea esta secuencia de manera automática pero puede cambiarla para "
+"Aly Suite crea esta secuencia de manera automática pero puede cambiarla para "
 "personalizar los números de referencia de sus líneas de orden."
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config__sequence_id
 #: model:ir.model.fields,help:point_of_sale.field_res_config_settings__pos_sequence_id
 msgid ""
-"This sequence is automatically created by Odoo but you can change it to "
+"This sequence is automatically created by Aly Suite but you can change it to "
 "customize the reference numbers of your orders."
 msgstr ""
-"Odoo crea automáticamente la secuencia, pero puede cambiarla para "
+"Aly Suite crea automáticamente la secuencia, pero puede cambiarla para "
 "personalizar los números de referencia de sus órdenes."
 
 #. module: point_of_sale

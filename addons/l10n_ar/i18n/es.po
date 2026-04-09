@@ -4,7 +4,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0+e\n"
+"Project-Id-Version: Aly Suite Server 16.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-22 12:27+0000\n"
 "PO-Revision-Date: 2025-04-22 12:27+0000\n"
@@ -657,8 +657,8 @@ msgstr "Bienes de Cambio"
 
 #. module: l10n_ar
 #: model:product.template,name:l10n_ar.product_product_exento_product_template
-msgid "Book \"Development in Odoo\" (VAT Exempt)"
-msgstr "Libro \"Desarrollo en Odoo\" (IVA Exento)"
+msgid "Book \"Development in Aly Suite\" (VAT Exempt)"
+msgstr "Libro \"Desarrollo en Aly Suite\" (IVA Exento)"
 
 #. module: l10n_ar
 #: model:l10n_latam.identification.type,name:l10n_ar.it_CBA

@@ -12,7 +12,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 20:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:55+0000\n"
@@ -1990,8 +1990,8 @@ msgstr "Lista numerada"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.tests
-msgid "Odoo Editor Tests"
-msgstr "Pruebas de editor de Odoo"
+msgid "Aly Suite Editor Tests"
+msgstr "Pruebas de editor de Aly Suite"
 
 #. module: web_editor
 #. odoo-javascript
@@ -2956,10 +2956,10 @@ msgstr "Esta imagen es una imagen externa."
 #, python-format
 msgid ""
 "This type of image is not supported for cropping.<br/>If you want to crop "
-"it, please first download it from the original source and upload it in Odoo."
+"it, please first download it from the original source and upload it in Aly Suite."
 msgstr ""
 "No se puede recortar este tipo de imagen.<br/>Si desea recortarla, primero "
-"descárguela de su origen y súbala a Odoo."
+"descárguela de su origen y súbala a Aly Suite."
 
 #. module: web_editor
 #. odoo-javascript

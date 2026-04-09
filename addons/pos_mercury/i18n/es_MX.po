@@ -8,7 +8,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-06 13:31+0000\n"
 "PO-Revision-Date: 2022-09-22 05:54+0000\n"
@@ -264,9 +264,9 @@ msgstr "El servidor no responde (¿está conectado a la red?)"
 #: code:addons/pos_mercury/static/src/js/PaymentScreen.js:0
 #: code:addons/pos_mercury/static/src/js/PaymentScreen.js:0
 #, python-format
-msgid "Odoo error while processing transaction."
+msgid "Aly Suite error while processing transaction."
 msgstr ""
-"Ocurrió un error dentro de Odoo al momento de procesar la transacción."
+"Ocurrió un error dentro de Aly Suite al momento de procesar la transacción."
 
 #. module: pos_mercury
 #. odoo-javascript

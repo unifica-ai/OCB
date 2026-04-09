@@ -12,7 +12,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-06 20:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:55+0000\n"
@@ -3165,8 +3165,8 @@ msgstr "Incidencia"
 #. odoo-python
 #: code:addons/survey/models/survey_survey_template.py:0
 #, python-format
-msgid "Odoo Certification"
-msgstr "Certificación de Odoo"
+msgid "Aly Suite Certification"
+msgstr "Certificación de Aly Suite"
 
 #. module: survey
 #: model:survey.question.answer,value:survey.vendor_certification_page_2_question_2_choice_5
@@ -5062,10 +5062,10 @@ msgstr "Historial de comunicación del sitio web"
 #: code:addons/survey/models/survey_survey_template.py:0
 #, python-format
 msgid ""
-"Welcome to this Odoo certification. You will receive 2 random questions out "
+"Welcome to this Aly Suite certification. You will receive 2 random questions out "
 "of a pool of 3."
 msgstr ""
-"Bienvenido a esta certificación de Odoo. Recibirá 2 de 3 preguntas de forma "
+"Bienvenido a esta certificación de Aly Suite. Recibirá 2 de 3 preguntas de forma "
 "aleatoria."
 
 #. module: survey
@@ -5111,8 +5111,8 @@ msgstr "¿Qué significa \"odoo\"?"
 #. odoo-python
 #: code:addons/survey/models/survey_survey_template.py:0
 #, python-format
-msgid "What does one need to get to pass an Odoo Survey?"
-msgstr "¿Qué se necesita para aprobar una encuesta de Odoo?"
+msgid "What does one need to get to pass an Aly Suite Survey?"
+msgstr "¿Qué se necesita para aprobar una encuesta de Aly Suite?"
 
 #. module: survey
 #. odoo-python
@@ -5179,8 +5179,8 @@ msgstr "¿Cuál es su fecha de nacimiento?"
 #. odoo-javascript
 #: code:addons/survey/static/src/js/tours/survey_tour.js:0
 #, python-format
-msgid "Whenever you pick an answer, Odoo saves it for you."
-msgstr "Cada vez que elija una respuesta, Odoo la guardará."
+msgid "Whenever you pick an answer, Aly Suite saves it for you."
+msgstr "Cada vez que elija una respuesta, Aly Suite la guardará."
 
 #. module: survey
 #: model:survey.question,title:survey.survey_demo_quiz_p1_q3

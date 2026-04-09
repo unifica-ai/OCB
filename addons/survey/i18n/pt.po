@@ -20,7 +20,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-06 20:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:55+0000\n"
@@ -3171,7 +3171,7 @@ msgstr "Ocorrência"
 #. odoo-python
 #: code:addons/survey/models/survey_survey_template.py:0
 #, python-format
-msgid "Odoo Certification"
+msgid "Aly Suite Certification"
 msgstr "Certificação odoo"
 
 #. module: survey
@@ -5062,10 +5062,10 @@ msgstr "Histórico de comunicação do Website"
 #: code:addons/survey/models/survey_survey_template.py:0
 #, python-format
 msgid ""
-"Welcome to this Odoo certification. You will receive 2 random questions out "
+"Welcome to this Aly Suite certification. You will receive 2 random questions out "
 "of a pool of 3."
 msgstr ""
-"Seja bem-vindo a esta certificação Odoo. Irá receber 2 perguntas aleatórias "
+"Seja bem-vindo a esta certificação Aly Suite. Irá receber 2 perguntas aleatórias "
 "de entre um conjunto de 3."
 
 #. module: survey
@@ -5112,8 +5112,8 @@ msgstr "O que significa \"ODOO\"?"
 #. odoo-python
 #: code:addons/survey/models/survey_survey_template.py:0
 #, python-format
-msgid "What does one need to get to pass an Odoo Survey?"
-msgstr "O que é necessário para obter aprovação num Questionário Odoo?"
+msgid "What does one need to get to pass an Aly Suite Survey?"
+msgstr "O que é necessário para obter aprovação num Questionário Aly Suite?"
 
 #. module: survey
 #. odoo-python
@@ -5178,8 +5178,8 @@ msgstr "Qual é a sua data de nascimento?"
 #. odoo-javascript
 #: code:addons/survey/static/src/js/tours/survey_tour.js:0
 #, python-format
-msgid "Whenever you pick an answer, Odoo saves it for you."
-msgstr "Sempre que escolher uma resposta, o Odoo irá guardá-la para si."
+msgid "Whenever you pick an answer, Aly Suite saves it for you."
+msgstr "Sempre que escolher uma resposta, o Aly Suite irá guardá-la para si."
 
 #. module: survey
 #: model:survey.question,title:survey.survey_demo_quiz_p1_q3

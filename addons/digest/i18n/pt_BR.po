@@ -11,7 +11,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-06 13:31+0000\n"
 "PO-Revision-Date: 2022-09-22 05:45+0000\n"
@@ -35,8 +35,8 @@ msgstr "<span class=\"button\" id=\"button_open_report\">Abrir Relatório</span>
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_mail_main
-msgid "<span class=\"odoo_link_text\">Odoo</span>"
-msgstr "<span class=\"odoo_link_text\">Odoo</span>"
+msgid "<span class=\"odoo_link_text\">Aly Suite</span>"
+msgstr "<span class=\"odoo_link_text\">Aly Suite</span>"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_mail_main
@@ -336,8 +336,8 @@ msgstr "Próxima data de envio"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_section_mobile
-msgid "Odoo Mobile"
-msgstr "Odoo Mobile"
+msgid "Aly Suite Mobile"
+msgstr "Aly Suite Mobile"
 
 #. module: digest
 #: model:ir.model.fields,field_description:digest.field_digest_digest__periodicity
@@ -380,8 +380,8 @@ msgstr "Destinatários"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_section_mobile
-msgid "Run your business from anywhere with <b>Odoo Mobile</b>."
-msgstr "Administre sua empresa de qualquer lugar com o <b>Odoo Mobile</b>."
+msgid "Run your business from anywhere with <b>Aly Suite Mobile</b>."
+msgstr "Administre sua empresa de qualquer lugar com o <b>Aly Suite Mobile</b>."
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_form
@@ -422,8 +422,8 @@ msgstr "Descrição da Dica"
 
 #. module: digest
 #: model_terms:digest.tip,tip_description:digest.digest_tip_digest_2
-msgid "Tip: A calculator in Odoo"
-msgstr "Dica: uma calculadora no Odoo"
+msgid "Tip: A calculator in Aly Suite"
+msgstr "Dica: uma calculadora no Aly Suite"
 
 #. module: digest
 #: model_terms:digest.tip,tip_description:digest.digest_tip_digest_1
@@ -447,8 +447,8 @@ msgstr "Dica: acelere seu fluxo de trabalho com atalhos"
 
 #. module: digest
 #: model:digest.tip,name:digest.digest_tip_digest_2
-msgid "Tip: A calculator in Odoo"
-msgstr "Dica: uma calculadora no Odoo"
+msgid "Tip: A calculator in Aly Suite"
+msgstr "Dica: uma calculadora no Aly Suite"
 
 #. module: digest
 #: model:digest.tip,name:digest.digest_tip_digest_1
@@ -555,8 +555,8 @@ msgstr "Sua inscrição foi cancelada com sucesso: <br/>"
 
 #. module: digest
 #: model:digest.digest,name:digest.digest_digest_default
-msgid "Your Odoo Periodic Digest"
-msgstr "Seu Resumo Periódico do Odoo"
+msgid "Your Aly Suite Periodic Digest"
+msgstr "Seu Resumo Periódico do Aly Suite"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_form

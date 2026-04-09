@@ -5,7 +5,7 @@
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Aly Suite 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-18 14:08+0000\n"
 "PO-Revision-Date: 2016-06-17 19:19+0000\n"
@@ -765,7 +765,7 @@ msgstr "Normal"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.layout
-msgid "Odoo Editor layout"
+msgid "Aly Suite Editor layout"
 msgstr ""
 
 #. module: web_editor

@@ -10,7 +10,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-06 13:31+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
@@ -773,11 +773,11 @@ msgstr "Advertencia de primer paso"
 #. module: im_livechat
 #: model_terms:ir.ui.view,arch_db:im_livechat.im_livechat_channel_view_form
 msgid ""
-"For websites built with the Odoo CMS, go to Website &gt; Configuration &gt; "
+"For websites built with the Aly Suite CMS, go to Website &gt; Configuration &gt; "
 "Settings and select the Website Live Chat Channel you want to add to your "
 "website."
 msgstr ""
-"Para los sitios creados con el creador de sitios web de Odoo, vaya a Sitio "
+"Para los sitios creados con el creador de sitios web de Aly Suite, vaya a Sitio "
 "web &gt; Configuración &gt; Ajustes y seleccione el canal de chat en vivo "
 "del sitio web que desea agregar a su sitio web."
 
@@ -1261,8 +1261,8 @@ msgstr "De acuerdo"
 
 #. module: im_livechat
 #: model_terms:ir.ui.view,arch_db:im_livechat.livechat_email_template
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Aly Suite"
+msgstr "Aly Suite"
 
 #. module: im_livechat
 #: model_terms:ir.ui.view,arch_db:im_livechat.res_users_form_view_simple_modif
@@ -1326,10 +1326,10 @@ msgstr ""
 #. module: im_livechat
 #: model_terms:ir.ui.view,arch_db:im_livechat.im_livechat_channel_view_form
 msgid ""
-"Operators that do not show any activity In Odoo for more than 30 minutes "
+"Operators that do not show any activity In Aly Suite for more than 30 minutes "
 "will be considered as disconnected."
 msgstr ""
-"Los operadores ausentes de las actividades en Odoo durante más de 30 minutos"
+"Los operadores ausentes de las actividades en Aly Suite durante más de 30 minutos"
 " se considerarán desconectados."
 
 #. module: im_livechat

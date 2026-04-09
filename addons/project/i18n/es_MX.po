@@ -13,7 +13,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-22 18:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:54+0000\n"
@@ -1822,10 +1822,10 @@ msgstr "Estado de las calificaciones de los clientes"
 #: code:addons/project/static/src/xml/project_task_kanban_examples.xml:0
 #, python-format
 msgid ""
-"Customers propose feedbacks by email; Odoo creates tasks automatically, and you can\n"
+"Customers propose feedbacks by email; Aly Suite creates tasks automatically, and you can\n"
 "      communicate on the task directly. Your managers decide which feedback is accepted"
 msgstr ""
-"Los clientes brindan su retroalimentación por correo electrónico y Odoo crea tareas de forma automática para que\n"
+"Los clientes brindan su retroalimentación por correo electrónico y Aly Suite crea tareas de forma automática para que\n"
 "       usted pueda comunicarse directamente desde la tarea. Sus administradores deciden qué retroalimentación se acepta."
 
 #. module: project
@@ -5586,11 +5586,11 @@ msgstr "El intervalo debe ser mayor a 0"
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project__alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (Aly Suite Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
-"El modelo (tipo de documento de Odoo) al que corresponde este seudónimo. "
+"El modelo (tipo de documento de Aly Suite) al que corresponde este seudónimo. "
 "Cualquier correo entrante que no sea respuesta a un registro existente "
 "causará la creación de un nuevo registro de este modelo (por ejemplo, una "
 "tarea de proyecto)."
@@ -6365,11 +6365,11 @@ msgstr "No tiene acceso de edición del campo %s."
 #: code:addons/project/static/src/js/tours/project.js:0
 #, python-format
 msgid ""
-"You have unsaved changes - no worries! Odoo will automatically save it as "
+"You have unsaved changes - no worries! Aly Suite will automatically save it as "
 "you navigate.<br/> You can discard these changes from here or manually save "
 "your task.<br/>Let's save it manually."
 msgstr ""
-"Tiene cambios sin guardar pero no se preocupe, Odoo los guardará en "
+"Tiene cambios sin guardar pero no se preocupe, Aly Suite los guardará en "
 "automático mientras avanza.<br/> Puede descartar estos cambios desde aquí o "
 "guardar su tarea de forma manual.<br/>Guardémosla manualmente."
 

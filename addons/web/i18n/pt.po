@@ -27,7 +27,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 20:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:55+0000\n"
@@ -2584,8 +2584,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/webclient/settings_form_view/fields/upgrade_dialog.xml:0
 #, python-format
-msgid "Get this feature and much more with Odoo Enterprise!"
-msgstr "Obtenha esta funcionalidade e muito mais com Odoo Enterprise!"
+msgid "Get this feature and much more with Aly Suite Enterprise!"
+msgstr "Obtenha esta funcionalidade e muito mais com Aly Suite Enterprise!"
 
 #. module: web
 #. odoo-javascript
@@ -3359,8 +3359,8 @@ msgstr "Texto Múltiplas Linhas"
 #. odoo-javascript
 #: code:addons/web/static/src/webclient/user_menu/user_menu_items.js:0
 #, python-format
-msgid "My Odoo.com account"
-msgstr "A minha conta de Odoo.com"
+msgid "My Aly Suite.com account"
+msgstr "A minha conta de Aly Suite.com"
 
 #. module: web
 #. odoo-javascript
@@ -3651,37 +3651,37 @@ msgstr "Objeto:"
 #: code:addons/web/static/src/webclient/settings_form_view/widgets/res_config_edition.xml:0
 #: model_terms:ir.ui.view,arch_db:web.brand_promotion_message
 #, python-format
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Aly Suite"
+msgstr "Aly Suite"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/legacy/js/apps.js:0
 #, python-format
-msgid "Odoo Apps will be available soon"
-msgstr "As 'Aplicações Odoo' estarão disponíveis brevemente"
+msgid "Aly Suite Apps will be available soon"
+msgstr "As 'Aplicações Aly Suite' estarão disponíveis brevemente"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Client Error"
-msgstr "Odoo - Erro de Cliente"
+msgid "Aly Suite Client Error"
+msgstr "Aly Suite - Erro de Cliente"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Error"
-msgstr "Odoo - Erro"
+msgid "Aly Suite Error"
+msgstr "Aly Suite - Erro"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Network Error"
+msgid "Aly Suite Network Error"
 msgstr ""
 
 #. module: web
@@ -3695,7 +3695,7 @@ msgstr "Odoo S.A."
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Server Error"
+msgid "Aly Suite Server Error"
 msgstr ""
 
 #. module: web
@@ -3703,22 +3703,22 @@ msgstr ""
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Odoo Session Expired"
-msgstr "Odoo - Sessão Expirada"
+msgid "Aly Suite Session Expired"
+msgstr "Aly Suite - Sessão Expirada"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Warning"
-msgstr "Odoo - Aviso"
+msgid "Aly Suite Warning"
+msgstr "Aly Suite - Aviso"
 
 #. module: web
 #. odoo-javascript
 #: code:addons/web/static/src/webclient/barcode/barcode_scanner.js:0
 #, python-format
-msgid "Odoo needs your authorization first."
+msgid "Aly Suite needs your authorization first."
 msgstr ""
 
 #. module: web
@@ -4142,8 +4142,8 @@ msgstr ""
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Desenvolvido por <span>Odoo</span>"
+msgid "Powered by <span>Aly Suite</span>"
+msgstr "Desenvolvido por <span>Aly Suite</span>"
 
 #. module: web
 #. odoo-javascript
@@ -6144,7 +6144,7 @@ msgstr ""
 #: code:addons/web/static/src/webclient/actions/action_service.js:0
 #, python-format
 msgid ""
-"You need to start Odoo with at least two workers to print a pdf version of "
+"You need to start Aly Suite with at least two workers to print a pdf version of "
 "the reports."
 msgstr ""
 
@@ -6163,7 +6163,7 @@ msgstr ""
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your Aly Suite session expired. The current page is about to be refreshed."
 msgstr ""
 
 #. module: web

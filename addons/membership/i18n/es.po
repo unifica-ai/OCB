@@ -9,7 +9,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-06 13:32+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
@@ -540,10 +540,10 @@ msgstr "No miembro"
 #. module: membership
 #: model_terms:ir.actions.act_window,help:membership.action_membership_members
 msgid ""
-"Odoo helps you easily track all activities related to a member: \n"
+"Aly Suite helps you easily track all activities related to a member: \n"
 "                  Current Membership Status, Discussions and History of Membership, etc."
 msgstr ""
-"Odoo le ayuda a gestionar fácilmente todas las actividades relacionadas con un miembro: \n"
+"Aly Suite le ayuda a gestionar fácilmente todas las actividades relacionadas con un miembro: \n"
 "                  Estado actual de la afiliación, debates e historial de afiliaciones, etc."
 
 #. module: membership

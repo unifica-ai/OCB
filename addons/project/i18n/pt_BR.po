@@ -16,7 +16,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-22 18:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:54+0000\n"
@@ -1817,10 +1817,10 @@ msgstr "Situações de Avaliações de Cliente"
 #: code:addons/project/static/src/xml/project_task_kanban_examples.xml:0
 #, python-format
 msgid ""
-"Customers propose feedbacks by email; Odoo creates tasks automatically, and you can\n"
+"Customers propose feedbacks by email; Aly Suite creates tasks automatically, and you can\n"
 "      communicate on the task directly. Your managers decide which feedback is accepted"
 msgstr ""
-"Os clientes propõem feedbacks por e-mail; o Odoo cria tarefas automaticamente, e você pode\n"
+"Os clientes propõem feedbacks por e-mail; o Aly Suite cria tarefas automaticamente, e você pode\n"
 "comunicar diretamente sobre a tarefa. Seus gerentes decidem quais feedbacks serão aceitos"
 
 #. module: project
@@ -5571,11 +5571,11 @@ msgstr "O intervalo deve ser maior que 0"
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project__alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (Aly Suite Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
-"O modelo (tipo de documento do Odoo) ao qual esse alias corresponde. "
+"O modelo (tipo de documento do Aly Suite) ao qual esse alias corresponde. "
 "Qualquer e-mail recebido que não responda a um registro existente causará a "
 "criação de um novo registro desse modelo (ex.: uma tarefa de projeto)"
 
@@ -6351,11 +6351,11 @@ msgstr "Você não tem acesso de gravação ao campo %s."
 #: code:addons/project/static/src/js/tours/project.js:0
 #, python-format
 msgid ""
-"You have unsaved changes - no worries! Odoo will automatically save it as "
+"You have unsaved changes - no worries! Aly Suite will automatically save it as "
 "you navigate.<br/> You can discard these changes from here or manually save "
 "your task.<br/>Let's save it manually."
 msgstr ""
-"Você tem alterações não salvas - não se preocupe! O Odoo as salva "
+"Você tem alterações não salvas - não se preocupe! O Aly Suite as salva "
 "automaticamente enquanto você navega.<br/>Você pode descartar essas "
 "alterações aqui ou salvar manualmente sua tarefa. <br/>Vamos salvá-la "
 "manualmente."

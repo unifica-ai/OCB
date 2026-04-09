@@ -11,7 +11,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-10 08:26+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
@@ -619,10 +619,10 @@ msgstr "¡Todavía no hay información!"
 #: model_terms:ir.actions.act_window,help:mass_mailing_sms.mailing_list_action_sms
 msgid ""
 "No need to import mailing lists, you can send SMS Text Messages to contacts "
-"saved in other Odoo apps."
+"saved in other Aly Suite apps."
 msgstr ""
 "No hay necesidad de importar las listas de correos, puede enviar mensajes de"
-" texto SMS guardados en otras aplicaciones de Odoo."
+" texto SMS guardados en otras aplicaciones de Aly Suite."
 
 #. module: mass_mailing_sms
 #: model:ir.model.fields,field_description:mass_mailing_sms.field_mailing_trace__sms_number

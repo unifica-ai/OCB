@@ -9,7 +9,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-06 13:32+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
@@ -43,10 +43,10 @@ msgstr "Empresas"
 #. odoo-python
 #: code:addons/partner_autocomplete/models/res_company.py:0
 #, python-format
-msgid "Company auto-completed by Odoo Partner Autocomplete Service"
+msgid "Company auto-completed by Aly Suite Partner Autocomplete Service"
 msgstr ""
 "Empresa preenchida automaticamente pelo serviço de preenchimento automático "
-"de parceiros do Odoo"
+"de parceiros do Aly Suite"
 
 #. module: partner_autocomplete
 #: model:ir.model.fields,field_description:partner_autocomplete.field_res_company__partner_gid
@@ -169,9 +169,9 @@ msgstr "Sincronização de preenchimento automático do parceiro"
 #. odoo-python
 #: code:addons/partner_autocomplete/models/res_partner.py:0
 #, python-format
-msgid "Partner created by Odoo Partner Autocomplete Service"
+msgid "Partner created by Aly Suite Partner Autocomplete Service"
 msgstr ""
-"Parceiro criado pelo Serviço de preenchimento automático de parceiros Odoo"
+"Parceiro criado pelo Serviço de preenchimento automático de parceiros Aly Suite"
 
 #. module: partner_autocomplete
 #. odoo-javascript

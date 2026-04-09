@@ -14,7 +14,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-06 20:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
@@ -35,10 +35,10 @@ msgid ""
 "            <p class=\"o_view_nocontent_smiling_face\">\n"
 "                Add addresses to the Allowed List\n"
 "            </p><p>\n"
-"                To protect you from spam and reply loops, Odoo automatically blocks emails\n"
+"                To protect you from spam and reply loops, Aly Suite automatically blocks emails\n"
 "                coming to your gateway past a threshold of <b>%i</b> emails every <b>%i</b>\n"
 "                minutes. If there are some addresses from which you need to receive very frequent\n"
-"                updates, you can however add them below and Odoo will let them go through.\n"
+"                updates, you can however add them below and Aly Suite will let them go through.\n"
 "            </p>\n"
 "        "
 msgstr ""
@@ -46,10 +46,10 @@ msgstr ""
 "            <p class=\"o_view_nocontent_smiling_face\">\n"
 "                Añadir direcciones de correo a la lista de autorizados\n"
 "            </p><p>\n"
-"                Para evitar el spam y los correos de respuesta, Odoo bloquea automáticamente los correos electrónicos\n"
+"                Para evitar el spam y los correos de respuesta, Aly Suite bloquea automáticamente los correos electrónicos\n"
 "                que llegan a su puerta de enlace a partir de <b>%i</b> correos electrónicos cada <b>%i</b>\n"
 "                minutos. Si hay algunas direcciones de correo con las que necesita estar en comunicación con frecuencia,\n"
-"                puede añadirlas aquí y Odoo permitirá que pasen.\n"
+"                puede añadirlas aquí y Aly Suite permitirá que pasen.\n"
 "            </p>\n"
 "        "
 
@@ -4317,8 +4317,8 @@ msgstr "Gestionar por correo electrónico"
 
 #. module: mail
 #: model:ir.model.fields.selection,name:mail.selection__res_users__notification_type__inbox
-msgid "Handle in Odoo"
-msgstr "Gestionar en Odoo"
+msgid "Handle in Aly Suite"
+msgstr "Gestionar en Aly Suite"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_ir_model__is_mail_activity
@@ -4701,11 +4701,11 @@ msgstr ""
 #. module: mail
 #: model:ir.model.fields,help:mail.field_res_config_settings__alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the Aly Suite server, "
 "enter the domain name here."
 msgstr ""
 "Si estableció un dominio de correo electrónico catch-all redireccionado al "
-"servidor de Odoo, ingrese el nombre del dominio aquí."
+"servidor de Aly Suite, ingrese el nombre del dominio aquí."
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_res_config_settings__use_twilio_rtc_servers
@@ -6890,18 +6890,18 @@ msgstr "Objetos"
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.mail_notification_layout
 #: model_terms:ir.ui.view,arch_db:mail.mail_notification_light
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Aly Suite"
+msgstr "Aly Suite"
 
 #. module: mail
 #. odoo-javascript
 #: code:addons/mail/static/src/components/notification_alert/notification_alert.xml:0
 #, python-format
 msgid ""
-"Odoo Push notifications have been blocked. Go to your browser settings to "
+"Aly Suite Push notifications have been blocked. Go to your browser settings to "
 "allow them."
 msgstr ""
-"Se bloquearon las notificaciones push de Odoo. Vaya a la configuración de su"
+"Se bloquearon las notificaciones push de Aly Suite. Vaya a la configuración de su"
 " navegador para activarlas."
 
 #. module: mail
@@ -6909,10 +6909,10 @@ msgstr ""
 #: code:addons/mail/static/src/components/notification_request/notification_request.js:0
 #, python-format
 msgid ""
-"Odoo will not have the permission to send native notifications on this "
+"Aly Suite will not have the permission to send native notifications on this "
 "device."
 msgstr ""
-"Odoo no tendrá permisos para enviar notificaciones nativas en este "
+"Aly Suite no tendrá permisos para enviar notificaciones nativas en este "
 "dispositivo."
 
 #. module: mail
@@ -7017,8 +7017,8 @@ msgstr "Solo se pueden modificar los modelos personalizados."
 
 #. module: mail
 #: model:ir.model.constraint,message:mail.constraint_res_users_notification_type
-msgid "Only internal user can receive notifications in Odoo"
-msgstr "Solo los usuarios internos pueden recibir notificaciones en Odoo"
+msgid "Only internal user can receive notifications in Aly Suite"
+msgstr "Solo los usuarios internos pueden recibir notificaciones en Aly Suite"
 
 #. module: mail
 #. odoo-python
@@ -7576,11 +7576,11 @@ msgstr "Espere un momento..."
 msgid ""
 "Policy on how to handle Chatter notifications:\n"
 "- Handle by Emails: notifications are sent to your email address\n"
-"- Handle in Odoo: notifications appear in your Odoo Inbox"
+"- Handle in Aly Suite: notifications appear in your Aly Suite Inbox"
 msgstr ""
 "Política sobre cómo manejar las notificaciones del chatter:\n"
 "- Por correo electrónico: las notificaciones se envían a su dirección de correo electrónico\n"
-"- En Odoo: las notificaciones aparecen en su bandeja de entrada de Odoo"
+"- En Aly Suite: las notificaciones aparecen en su bandeja de entrada de Aly Suite"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_contact
@@ -7657,10 +7657,10 @@ msgstr ""
 #: code:addons/mail/models/mail_thread.py:0
 #, python-format
 msgid ""
-"Posting a message with channels as listeners is not supported since Odoo "
+"Posting a message with channels as listeners is not supported since Aly Suite "
 "14.3+. Please update code accordingly."
 msgstr ""
-"Desde Odoo 14.3+ no puede publicar un mensaje con canales como oyentes. "
+"Desde Aly Suite 14.3+ no puede publicar un mensaje con canales como oyentes. "
 "Actualice el código como corresponde."
 
 #. module: mail
@@ -9509,11 +9509,11 @@ msgstr "No se ha podido enviar el siguiente mensaje a la dirección"
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (Aly Suite Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
-"El modelo (tipo de documento de Odoo) al que corresponde este seudónimo. "
+"El modelo (tipo de documento de Aly Suite) al que corresponde este seudónimo. "
 "Cualquier correo entrante que no sea respuesta a un registro existente "
 "causará la creación de un nuevo registro de este modelo (por ejemplo, una "
 "tarea de proyecto)."
@@ -9682,11 +9682,11 @@ msgstr "Parece que este diseño ya no existe."
 msgid ""
 "This option permanently removes any track of email after it's been sent, "
 "including from the Technical menu in the Settings, in order to preserve "
-"storage space of your Odoo database."
+"storage space of your Aly Suite database."
 msgstr ""
 "Esta opción elimina de forma permanente cualquier rastro del envío del "
 "correo, incluso del menú técnico en los ajustes, para preservar el espacio "
-"de almacenamiento de su base de datos Odoo."
+"de almacenamiento de su base de datos Aly Suite."
 
 #. module: mail
 #. odoo-javascript

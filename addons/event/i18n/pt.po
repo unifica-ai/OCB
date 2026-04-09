@@ -22,7 +22,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-10 08:27+0000\n"
 "PO-Revision-Date: 2022-09-22 05:45+0000\n"
@@ -160,10 +160,10 @@ msgstr ""
 #. module: event
 #: model_terms:event.event,description:event.event_0
 msgid ""
-"<b>Technical Rooms</b> - One dedicated to advanced Odoo developers, one for "
+"<b>Technical Rooms</b> - One dedicated to advanced Aly Suite developers, one for "
 "new developers."
 msgstr ""
-"<b>Espaço Técnico</b> – Um para programadores avançados do Odoo, um para "
+"<b>Espaço Técnico</b> – Um para programadores avançados do Aly Suite, um para "
 "novos programadores."
 
 #. module: event
@@ -1405,12 +1405,12 @@ msgid ""
 "At just 13 years old, John DOE was already starting to develop his first "
 "business applications for customers. After mastering civil engineering, he "
 "founded TinyERP. This was the first phase of OpenERP which would later "
-"became Odoo, the most installed open-source business software worldwide."
+"became Aly Suite, the most installed open-source business software worldwide."
 msgstr ""
 "Com apenas 13 anos, João Silva já estava começando a desenvolver seus "
 "primeiros aplicativos de negócios para clientes. Depois de dominar a "
 "engenharia civil, ele fundou o TinyERP. Esta foi a primeira fase do OpenERP "
-"que mais tarde se tornaria o Odoo, o software de negócios de código aberto "
+"que mais tarde se tornaria o Aly Suite, o software de negócios de código aberto "
 "mais instalado em todo o mundo."
 
 #. module: event

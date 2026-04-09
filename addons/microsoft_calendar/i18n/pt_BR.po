@@ -13,11 +13,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-22 18:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
-"Last-Translator: Wil Odoo, 2025\n"
+"Last-Translator: Wil Aly Suite, 2025\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/odoo/teams/41243/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -148,8 +148,8 @@ msgstr "Criado em"
 
 #. module: microsoft_calendar
 #: model:ir.model.fields.selection,name:microsoft_calendar.selection__microsoft_calendar_account_reset__delete_policy__delete_odoo
-msgid "Delete from Odoo"
-msgstr "Excluir do Odoo"
+msgid "Delete from Aly Suite"
+msgstr "Excluir do Aly Suite"
 
 #. module: microsoft_calendar
 #: model:ir.model.fields.selection,name:microsoft_calendar.selection__microsoft_calendar_account_reset__delete_policy__delete_both
@@ -183,10 +183,10 @@ msgstr ""
 #, python-format
 msgid ""
 "Due to an Outlook Calendar limitation, recurrence updates must be done directly in Outlook Calendar.\n"
-"If this recurrence is not shown in Outlook Calendar, you must delete it in Odoo Calendar and recreate it in Outlook Calendar."
+"If this recurrence is not shown in Outlook Calendar, you must delete it in Aly Suite Calendar and recreate it in Outlook Calendar."
 msgstr ""
 "Devido a uma limitação do Calendário do Outlook, as atualizações de recorrência devem ser feitas diretamente no Calendário do Outlook.\n"
-"Se essa recorrência não for mostrada no Calendário do Outlook, você deverá excluí-la no Calendário do Odoo e recriá-la no Calendário do Outlook."
+"Se essa recorrência não for mostrada no Calendário do Outlook, você deverá excluí-la no Calendário do Aly Suite e recriá-la no Calendário do Outlook."
 
 #. module: microsoft_calendar
 #. odoo-python
@@ -214,11 +214,11 @@ msgstr "Regra de Recorrência de Evento"
 #: code:addons/microsoft_calendar/models/calendar.py:0
 #, python-format
 msgid ""
-"For a correct synchronization between Odoo and Outlook Calendar, all attendees must have an email address. However, some events do not respect this condition. As long as the events are incorrect, the calendars will not be synchronized.\n"
+"For a correct synchronization between Aly Suite and Outlook Calendar, all attendees must have an email address. However, some events do not respect this condition. As long as the events are incorrect, the calendars will not be synchronized.\n"
 "Either update the events/attendees or archive these events %s:\n"
 "%s"
 msgstr ""
-"Para uma sincronização correta entre o Odoo e o Outlook Calendar, todos os participantes devem ter um endereço de e-mail. No entanto, alguns eventos não respeitam essa condição. Enquanto os eventos estiverem incorretos, os calendários não serão sincronizados.\n"
+"Para uma sincronização correta entre o Aly Suite e o Outlook Calendar, todos os participantes devem ter um endereço de e-mail. No entanto, alguns eventos não respeitam essa condição. Enquanto os eventos estiverem incorretos, os calendários não serão sincronizados.\n"
 "Atualize os eventos/participantes ou arquive esses eventos %s:\n"
 "%s"
 
@@ -228,10 +228,10 @@ msgstr ""
 #, python-format
 msgid ""
 "For having a different organizer in your event, it is necessary that the "
-"organizer have its Odoo Calendar synced with Outlook Calendar."
+"organizer have its Aly Suite Calendar synced with Outlook Calendar."
 msgstr ""
 "Para ter um organizador diferente em seu evento, é necessário que o "
-"organizador tenha seu Calendário do Odoo sincronizado com o Calendário do "
+"organizador tenha seu Calendário do Aly Suite sincronizado com o Calendário do "
 "Outlook."
 
 #. module: microsoft_calendar

@@ -9,7 +9,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-10 08:27+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
@@ -29,13 +29,13 @@ msgid ""
 "Good, you can customize canned responses in the live chat "
 "application.<br/><br/><b>It's the end of this overview</b>, you can now "
 "<b>close this conversation</b> or start the tour again with typing <span "
-"class=\"o_odoobot_command\">start the tour</span>. Enjoy discovering Odoo!"
+"class=\"o_odoobot_command\">start the tour</span>. Enjoy discovering Aly Suite!"
 msgstr ""
 "Bien, puede personalizar respuestas predefinidas en la aplicación de chat en"
 " directo.<br/><br/><b>Esto es el final de este resumen</b>, ahora puede "
 "<b>cerrar esta conversación</b> o comenzar el recorrido otra vez tecleando "
 "<span class=\"o_odoobot_command\">iniciar el recorrido</span>. ¡Disfrute "
-"descubriendo Odoo!"
+"descubriendo Aly Suite!"
 
 #. module: im_livechat_mail_bot
 #: model:ir.model,name:im_livechat_mail_bot.model_mail_bot

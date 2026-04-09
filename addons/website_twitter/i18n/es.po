@@ -9,7 +9,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-06 13:32+0000\n"
 "PO-Revision-Date: 2022-09-22 05:57+0000\n"
@@ -57,13 +57,13 @@ msgstr "<strong>Nombre de la aplicación: </strong> elegir un nombre único"
 
 #. module: website_twitter
 #: model_terms:ir.ui.view,arch_db:website_twitter.res_config_settings_view_form
-msgid "<strong>Description: </strong> Odoo Twitter Integration"
-msgstr "<strong>Descripción: </strong> Integración de Odoo con Twitter"
+msgid "<strong>Description: </strong> Aly Suite Twitter Integration"
+msgstr "<strong>Descripción: </strong> Integración de Aly Suite con Twitter"
 
 #. module: website_twitter
 #: model_terms:ir.ui.view,arch_db:website_twitter.res_config_settings_view_form
-msgid "<strong>Name: </strong> Odoo Twitter Integration"
-msgstr "<strong>Nombre: </strong> Integración de Odoo con Twitter"
+msgid "<strong>Name: </strong> Aly Suite Twitter Integration"
+msgstr "<strong>Nombre: </strong> Integración de Aly Suite con Twitter"
 
 #. module: website_twitter
 #: model_terms:ir.ui.view,arch_db:website_twitter.res_config_settings_view_form

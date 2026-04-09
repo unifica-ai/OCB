@@ -10,11 +10,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-06 13:32+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
-"Last-Translator: Wil Odoo, 2024\n"
+"Last-Translator: Wil Aly Suite, 2024\n"
 "Language-Team: Spanish (https://app.transifex.com/odoo/teams/41243/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -110,19 +110,19 @@ msgstr "<font style=\"color: rgb(255, 255, 255);\">¡Hola!</font>"
 #. module: mass_mailing_themes
 #: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
 msgid ""
-"<font style=\"color: rgb(255, 255, 255);\">The next edition of <span style=\"font-weight: bolder;\">Odoo Experience Online</span> is coming soon!\n"
+"<font style=\"color: rgb(255, 255, 255);\">The next edition of <span style=\"font-weight: bolder;\">Aly Suite Experience Online</span> is coming soon!\n"
 "                    <br/>To stir up your curiosity, have a look at all the great talks scheduled and highlighted in our agenda!</font>"
 msgstr ""
-"<font style=\"color: rgb(255, 255, 255);\">¡Se acerca la siguiente edición de la <span style=\"font-weight: bolder;\">Odoo Experience en línea</span>!\n"
+"<font style=\"color: rgb(255, 255, 255);\">¡Se acerca la siguiente edición de la <span style=\"font-weight: bolder;\">Aly Suite Experience en línea</span>!\n"
 "                    <br/>Consulta las maravillosas presentaciones que tenemos programadas en nuestra agenda, seguro varias llamarán tu atención.</font>"
 
 #. module: mass_mailing_themes
 #: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
 msgid ""
-"<font style=\"color: rgb(255, 255, 255);\">Zero, zilch, nada! Odoo "
+"<font style=\"color: rgb(255, 255, 255);\">Zero, zilch, nada! Aly Suite "
 "Experience is free for everyone!</font>"
 msgstr ""
-"<font style=\"color: rgb(255, 255, 255);\">¡Zero, zilch, nada! La Odoo "
+"<font style=\"color: rgb(255, 255, 255);\">¡Zero, zilch, nada! La Aly Suite "
 "Experience es gratis para todos!</font>"
 
 #. module: mass_mailing_themes
@@ -462,11 +462,11 @@ msgstr "Únase a nosotros"
 #. module: mass_mailing_themes
 #: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
 msgid ""
-"Learn through workshops, product demos, and inspiring talks from Odoo "
+"Learn through workshops, product demos, and inspiring talks from Aly Suite "
 "Experts and Partners."
 msgstr ""
 "Aprenda a través de talleres, demos de productos y presentaciones "
-"inspiradoras de expertos de Odoo y Partners."
+"inspiradoras de expertos de Aly Suite y Partners."
 
 #. module: mass_mailing_themes
 #: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_tech_template

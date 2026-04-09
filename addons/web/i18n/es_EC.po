@@ -7,7 +7,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: Aly Suite 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-18 14:08+0000\n"
 "PO-Revision-Date: 2016-02-22 05:01+0000\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"#-#-#-#-#  es_EC.po (Odoo 9.0)  #-#-#-#-#\n"
+"#-#-#-#-#  es_EC.po (Aly Suite 9.0)  #-#-#-#-#\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: web
@@ -227,8 +227,8 @@ msgstr "<span class=\"oe_logo_edit\">Editar Datos de Compañía</span>"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.menu_secondary
-msgid "<span>Odoo</span>"
-msgstr "<span>Odoo</span>"
+msgid "<span>Aly Suite</span>"
+msgstr "<span>Aly Suite</span>"
 
 #. module: web
 #. openerp-web
@@ -1088,8 +1088,8 @@ msgstr "GNU Lesser General Public License"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1512
 #, python-format
-msgid "Get this feature and much more with Odoo Enterprise!"
-msgstr "¡Obtenga esta características y otras con Odoo Enterprise!"
+msgid "Get this feature and much more with Aly Suite Enterprise!"
+msgstr "¡Obtenga esta características y otras con Aly Suite Enterprise!"
 
 #. module: web
 #. openerp-web
@@ -1412,8 +1412,8 @@ msgstr "Mover hacia arriba"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:87
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Mi cuenta Odoo.com"
+msgid "My Aly Suite.com account"
+msgstr "Mi cuenta Aly Suite.com"
 
 #. module: web
 #. openerp-web
@@ -1576,29 +1576,29 @@ msgstr "Objeto:"
 #: code:addons/web/static/src/js/framework/dialog.js:37
 #: model_terms:ir.ui.view,arch_db:web.layout
 #, python-format
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Aly Suite"
+msgstr "Aly Suite"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:101
 #, python-format
-msgid "Odoo (Formerly OpenERP)"
-msgstr "Odoo (Anteriormente OpenERP)"
+msgid "Aly Suite (Formerly OpenERP)"
+msgstr "Aly Suite (Anteriormente OpenERP)"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/apps.js:189
 #, python-format
-msgid "Odoo Apps will be available soon"
-msgstr "Aplicaciones Odoo estarán disponibles próximamente"
+msgid "Aly Suite Apps will be available soon"
+msgstr "Aplicaciones Aly Suite estarán disponibles próximamente"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/views/form_widgets.js:1717
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo Enterprise"
+msgid "Aly Suite Enterprise"
+msgstr "Aly Suite Enterprise"
 
 #. module: web
 #. openerp-web
@@ -1609,22 +1609,22 @@ msgstr "Odoo S.A."
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.qunit_suite
-msgid "Odoo Web Tests"
-msgstr "Test Web para Odoo"
+msgid "Aly Suite Web Tests"
+msgstr "Test Web para Aly Suite"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:117
 #, python-format
-msgid "Odoo is a trademark of"
-msgstr "Odoo es una marca registrada de "
+msgid "Aly Suite is a trademark of"
+msgstr "Aly Suite es una marca registrada de "
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:119
 #, python-format
-msgid "Odoo.com"
-msgstr "Odoo.com"
+msgid "Aly Suite.com"
+msgstr "Aly Suite.com"
 
 #. module: web
 #. openerp-web
@@ -1782,8 +1782,8 @@ msgstr "Desarrollado por"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Desarrollado por <span>Odoo</span>"
+msgid "Powered by <span>Aly Suite</span>"
+msgstr "Desarrollado por <span>Aly Suite</span>"
 
 #. module: web
 #. openerp-web
@@ -2263,10 +2263,10 @@ msgstr ""
 #, python-format
 msgid ""
 "Timezone Mismatch : The timezone of your browser doesn't match the selected "
-"one. The time in Odoo is displayed according to your field timezone."
+"one. The time in Aly Suite is displayed according to your field timezone."
 msgstr ""
 "Error en Zona Horaria: La zona horaria de su navegador no coincide con la "
-"seleccionada. La fecha en Odoo será mostrada de acuerdo a la zona horaria "
+"seleccionada. La fecha en Aly Suite será mostrada de acuerdo a la zona horaria "
 "configurada en su registro."
 
 #. module: web
@@ -2616,8 +2616,8 @@ msgstr "Debe seleccionar al menos un registro."
 #. openerp-web
 #: code:addons/web/static/src/js/framework/crash_manager.js:69
 #, python-format
-msgid "Your Odoo session expired. Please refresh the current web page."
-msgstr "Su sesión Odoo ha expirado. Por favor, actualice su página web."
+msgid "Your Aly Suite session expired. Please refresh the current web page."
+msgstr "Su sesión Aly Suite ha expirado. Por favor, actualice su página web."
 
 #. module: web
 #. openerp-web

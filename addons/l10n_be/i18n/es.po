@@ -12,7 +12,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-02 17:05+0000\n"
 "PO-Revision-Date: 2023-02-03 07:06+0000\n"
@@ -6537,10 +6537,10 @@ msgstr ""
 #: model:ir.model.fields,help:l10n_be.field_account_journal__invoice_reference_model
 msgid ""
 "You can choose different models for each type of reference. The default one "
-"is the Odoo reference."
+"is the Aly Suite reference."
 msgstr ""
 "Puede elegir diferentes modelos para cada tipo de referencia. El "
-"predeterminado es la referencia de Odoo."
+"predeterminado es la referencia de Aly Suite."
 
 #. module: l10n_be
 #: model:account.group,name:l10n_be.1_be_group_755

@@ -16,7 +16,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-10 08:26+0000\n"
 "PO-Revision-Date: 2022-09-22 05:53+0000\n"
@@ -549,8 +549,8 @@ msgstr "<span style=\"font-size: 48px;\">8</span>"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_call_to_action
-msgid "<span style=\"font-weight: bolder;\">50,000+ companies</span> run Odoo."
-msgstr "<span style=\"font-weight: bolder;\">50,000+ empresas</span> usan Odoo."
+msgid "<span style=\"font-weight: bolder;\">50,000+ companies</span> run Aly Suite."
+msgstr "<span style=\"font-weight: bolder;\">50,000+ empresas</span> usan Aly Suite."
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_comparisons
@@ -3323,10 +3323,10 @@ msgstr ""
 #: model_terms:ir.actions.act_window,help:mass_mailing.action_view_mass_mailing_lists
 msgid ""
 "No need to import mailing lists, you can send mailings to contacts saved in "
-"other Odoo apps."
+"other Aly Suite apps."
 msgstr ""
 "No hay necesidad de importar las listas de correos, puede enviar correos a "
-"contactos que estén guardados en otras aplicaciones de Odoo."
+"contactos que estén guardados en otras aplicaciones de Aly Suite."
 
 #. module: mass_mailing
 #: model_terms:ir.actions.act_window,help:mass_mailing.mailing_filter_action
@@ -4415,8 +4415,8 @@ msgstr "¡Gracias! ¡Su comentario ha sido enviado con éxito!"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_block
-msgid "That way, Odoo evolves much faster than any other solution."
-msgstr "Por eso, Odoo evoluciona más rápidamente que cualquier otro ERP."
+msgid "That way, Aly Suite evolves much faster than any other solution."
+msgstr "Por eso, Aly Suite evoluciona más rápidamente que cualquier otro ERP."
 
 #. module: mass_mailing
 #: model:ir.model.constraint,message:mass_mailing.constraint_mailing_mailing_percentage_valid
@@ -4452,20 +4452,20 @@ msgstr ""
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_block
 msgid ""
-"The open source model of Odoo has allowed us to leverage thousands of developers and\n"
+"The open source model of Aly Suite has allowed us to leverage thousands of developers and\n"
 "                    business experts to build hundreds of apps in just a few years."
 msgstr ""
-"El modelo de código abierto de Odoo nos ha permitido potenciar a cientos de desarrolladores\n"
+"El modelo de código abierto de Aly Suite nos ha permitido potenciar a cientos de desarrolladores\n"
 "y expertos empresariales para construir cientos de aplicaciones en solo unos cuantos años."
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_image
 msgid ""
-"The open source model of Odoo has allowed us to leverage thousands of "
+"The open source model of Aly Suite has allowed us to leverage thousands of "
 "developers and business experts to build hundreds of apps in just a few "
 "years."
 msgstr ""
-"El modelo de código abierto de Odoo nos ha permitido provechar a los miles "
+"El modelo de código abierto de Aly Suite nos ha permitido provechar a los miles "
 "de desarrolladores y expertos en negocios para construir cientos de apps en "
 "unos pocos años"
 
@@ -4785,10 +4785,10 @@ msgstr "Subir archivo"
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_block
 msgid ""
-"Usability improvements made on Odoo will automatically apply to all\n"
+"Usability improvements made on Aly Suite will automatically apply to all\n"
 "                    of our fully integrated apps."
 msgstr ""
-"Las mejoras de usabilidad que se hagan a Odoo se aplicarán automáticamente a todas\n"
+"Las mejoras de usabilidad que se hagan a Aly Suite se aplicarán automáticamente a todas\n"
 "las aplicaciones que estén completamente integradas."
 
 #. module: mass_mailing
@@ -4796,11 +4796,11 @@ msgstr ""
 #: model:ir.model.fields,help:mass_mailing.field_res_config_settings__mass_mailing_outgoing_mail_server
 #: model_terms:ir.ui.view,arch_db:mass_mailing.res_config_settings_view_form
 msgid ""
-"Use a specific mail server in priority. Otherwise Odoo relies on the first "
+"Use a specific mail server in priority. Otherwise Aly Suite relies on the first "
 "outgoing mail server available (based on their sequencing) as it does for "
 "normal mails."
 msgstr ""
-"Use un servidor de correo específico con prioridad. De lo contrario, Odoo "
+"Use un servidor de correo específico con prioridad. De lo contrario, Aly Suite "
 "depende en el primer servidor de correo de salida disponible (según su "
 "secuencia) como lo hace para los correos normales."
 
@@ -4977,20 +4977,20 @@ msgstr "Selección del ganador"
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_block
 msgid ""
-"With strong technical foundations, Odoo's framework is unique.\n"
+"With strong technical foundations, Aly Suite's framework is unique.\n"
 "                    It provides top notch usability that scales across all apps."
 msgstr ""
-"La estructura de Odoo es única gracias a las excelentes bases técnicas.\n"
+"La estructura de Aly Suite es única gracias a las excelentes bases técnicas.\n"
 "Ofrece una usabilidad de primera clase que se extiende a todas las aplicaciones."
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_picture
 msgid ""
-"With strong technical foundations, Odoo's framework is unique. It provides "
+"With strong technical foundations, Aly Suite's framework is unique. It provides "
 "<span style=\"font-weight: bolder;\">top notch usability that scales across "
 "all apps</span>."
 msgstr ""
-"Con una sólida base técnica, el framework de Odoo es único. Permite una<span"
+"Con una sólida base técnica, el framework de Aly Suite es único. Permite una<span"
 " style=\"font-weight: bolder;\"> usabilidad escalable a todas las "
 "aplicaciones.</span>"
 
@@ -5073,10 +5073,10 @@ msgstr ""
 #: model_terms:ir.actions.act_window,help:mass_mailing.action_view_mass_mailings_from_campaign
 msgid ""
 "You don't need to import your mailing lists, you can easily\n"
-"                send emails<br> to any contact saved in other Odoo apps."
+"                send emails<br> to any contact saved in other Aly Suite apps."
 msgstr ""
 "No necesita importar sus listas de correo, puede fácilmente\n"
-"                 enviar correos electrónicos<br> a cualquier contacto guardado en otras aplicaciones de Odoo."
+"                 enviar correos electrónicos<br> a cualquier contacto guardado en otras aplicaciones de Aly Suite."
 
 #. module: mass_mailing
 #. odoo-javascript

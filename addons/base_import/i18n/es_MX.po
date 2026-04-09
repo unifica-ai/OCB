@@ -9,7 +9,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 20:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:45+0000\n"
@@ -494,12 +494,12 @@ msgstr "ID"
 #, python-format
 msgid ""
 "If the file contains\n"
-"                    the column names, Odoo can try auto-detecting the\n"
+"                    the column names, Aly Suite can try auto-detecting the\n"
 "                    field corresponding to the column. This makes imports\n"
 "                    simpler especially when the file has many columns."
 msgstr ""
 "Si el archivo contiene\n"
-"                    los nombres de las columnas, Odoo puede intentar autodetectar el\n"
+"                    los nombres de las columnas, Aly Suite puede intentar autodetectar el\n"
 "                    campo correspondiente a la columna. Esto hace más sencillas\n"
 "                    las importaciones, especialmente cuando el archivo tiene muchas columnas."
 
@@ -742,8 +742,8 @@ msgstr "No se encontraron registros que coincidan para los siguientes"
 #. odoo-javascript
 #: code:addons/base_import/static/src/legacy/xml/base_import.xml:0
 #, python-format
-msgid "Odoo Field"
-msgstr "Campo de Odoo"
+msgid "Aly Suite Field"
+msgstr "Campo de Aly Suite"
 
 #. module: base_import
 #: model:ir.model.fields,field_description:base_import.field_base_import_tests_models_preview__othervalue

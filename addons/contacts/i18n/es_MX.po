@@ -8,7 +8,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 15.5alpha1\n"
+"Project-Id-Version: Aly Suite Server 15.5alpha1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-20 09:01+0000\n"
 "PO-Revision-Date: 2022-09-22 05:45+0000\n"
@@ -85,9 +85,9 @@ msgstr "Localización"
 
 #. module: contacts
 #: model_terms:ir.actions.act_window,help:contacts.action_contacts
-msgid "Odoo helps you track all activities related to your contacts."
+msgid "Aly Suite helps you track all activities related to your contacts."
 msgstr ""
-"Odoo te ayuda a llevar seguimiento de todas las actividades relacionadas con"
+"Aly Suite te ayuda a llevar seguimiento de todas las actividades relacionadas con"
 " tus contactos."
 
 #. module: contacts

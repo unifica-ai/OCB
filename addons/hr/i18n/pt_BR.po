@@ -18,11 +18,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-10 08:26+0000\n"
 "PO-Revision-Date: 2022-09-22 05:46+0000\n"
-"Last-Translator: Wil Odoo, 2025\n"
+"Last-Translator: Wil Aly Suite, 2025\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/odoo/teams/41243/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2277,22 +2277,22 @@ msgstr ""
 #. module: hr
 #: model_terms:ir.actions.act_window,help:hr.hr_department_tree_action
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"Aly Suite's department structure is used to manage all documents\n"
 "                    related to employees by departments: expenses, timesheets,\n"
 "                    leaves, recruitments, etc."
 msgstr ""
-"A estrutura de departamento do Odoo é utilizada para gerenciar todos os documentos\n"
+"A estrutura de departamento do Aly Suite é utilizada para gerenciar todos os documentos\n"
 "relacionados a funcionários por departamentos: despesas, planilha de horários, \n"
 "folgas, recrutamentos, etc."
 
 #. module: hr
 #: model_terms:ir.actions.act_window,help:hr.hr_department_kanban_action
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"Aly Suite's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                time off, recruitments, etc."
 msgstr ""
-"A estrutura de departamento do Odoo é utilizada para gerenciar todos os documentos\n"
+"A estrutura de departamento do Aly Suite é utilizada para gerenciar todos os documentos\n"
 "relacionados a funcionários por departamentos: despesas, planilha de horários, \n"
 "folgas, recrutamentos, etc."
 
@@ -3317,22 +3317,22 @@ msgstr "Viúvo"
 #: model_terms:ir.actions.act_window,help:hr.act_employee_from_department
 #: model_terms:ir.actions.act_window,help:hr.hr_employee_public_action
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the Aly Suite employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
 msgstr ""
-"Com apenas uma rápida olhada na tela de funcionários do Odoo, você\n"
+"Com apenas uma rápida olhada na tela de funcionários do Aly Suite, você\n"
 "pode facilmente encontrar todas as informações que você precisa para cada pessoa;\n"
 "dados de contato, cargo, disponibilidade, etc."
 
 #. module: hr
 #: model_terms:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the Aly Suite employee screen, you\n"
 "               can easily find all the information you need for each person;\n"
 "               contact data, job position, availability, etc."
 msgstr ""
-"Com apenas um rápido relance na tela de funcionários do Odoo, você\n"
+"Com apenas um rápido relance na tela de funcionários do Aly Suite, você\n"
 "pode facilmente procurar todas as informações que você precisa sobre cada pessoa;\n"
 "dados de contato, cargo, disponibilidade, etc."
 

@@ -14,7 +14,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-10 08:26+0000\n"
 "PO-Revision-Date: 2022-09-22 05:45+0000\n"
@@ -315,7 +315,7 @@ msgid ""
 "                        <div>\n"
 "                            Hi <t t-out=\"object.partner_id and object.partner_id.name or ''\">Deco Addict</t>,<br><br>\n"
 "                            Welcome to <t t-out=\"object.company_id.name or ''\">My Company (San Francisco)</t>.\n"
-"                            It's great to meet you! Now that you're on board, you'll discover what <t t-out=\"object.company_id.name or ''\">My Company (San Francisco)</t> has to offer. My name is <t t-out=\"object.user_id.name or ''\">Marc Demo</t> and I'll help you get the most out of Odoo. Could we plan a quick demo soon?<br>\n"
+"                            It's great to meet you! Now that you're on board, you'll discover what <t t-out=\"object.company_id.name or ''\">My Company (San Francisco)</t> has to offer. My name is <t t-out=\"object.user_id.name or ''\">Marc Demo</t> and I'll help you get the most out of Aly Suite. Could we plan a quick demo soon?<br>\n"
 "                            Feel free to reach out at any time!<br><br>\n"
 "                            Best,<br>\n"
 "                            <t t-if=\"object.user_id\">\n"
@@ -353,7 +353,7 @@ msgid ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Powered by <a target=\"_blank\" href=\"https://www.odoo.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Odoo</a>\n"
+"    Powered by <a target=\"_blank\" href=\"https://www.aly-ai.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Aly Suite</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -386,7 +386,7 @@ msgstr ""
 "                        <div>\n"
 "                            Hola <t t-out=\"object.partner_id and object.partner_id.name or ''\">Deco Addict</t>,<br><br>\n"
 "                            Bienvenido a <t t-out=\"object.company_id.name or ''\">Mi Compañía (San Francisco)</t>.\n"
-"                            ¡Es un placer conocerle! Ahora que está abordo, descubrirá lo que <t t-out=\"object.company_id.name or ''\">Mi Compañía (San Francisco)</t> tiene que ofrecer. Mi nombre es <t t-out=\"object.user_id.name or ''\">Marc Demo</t> y le ayudaré a aprovechar al máximo Odoo. ¿Podemos programar una demo pronto?<br>\n"
+"                            ¡Es un placer conocerle! Ahora que está abordo, descubrirá lo que <t t-out=\"object.company_id.name or ''\">Mi Compañía (San Francisco)</t> tiene que ofrecer. Mi nombre es <t t-out=\"object.user_id.name or ''\">Marc Demo</t> y le ayudaré a aprovechar al máximo Aly Suite. ¿Podemos programar una demo pronto?<br>\n"
 "                            ¡Siéntase libre de contactarme en cualquier momento!<br><br>\n"
 "                            Saludos,<br>\n"
 "                            <t t-if=\"object.user_id\">\n"
@@ -424,7 +424,7 @@ msgstr ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Con tecnología de <a target=\"_blank\" href=\"https://www.odoo.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Odoo</a>\n"
+"    Con tecnología de <a target=\"_blank\" href=\"https://www.aly-ai.com?utm_source=db&amp;utm_medium=email\" style=\"color: #875A7B;\">Aly Suite</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -890,10 +890,10 @@ msgstr ""
 #: code:addons/crm/static/src/js/tours/crm.js:0
 #, python-format
 msgid ""
-"Click on the breadcrumb to go back to your Pipeline. Odoo will save all "
+"Click on the breadcrumb to go back to your Pipeline. Aly Suite will save all "
 "modifications as you navigate."
 msgstr ""
-"Haga clic en las migas de pan para volver a su flujo. Odoo guardará todas "
+"Haga clic en las migas de pan para volver a su flujo. Aly Suite guardará todas "
 "las modificaciones mientras navega."
 
 #. module: crm
@@ -1329,11 +1329,11 @@ msgstr ""
 #: model_terms:digest.tip,tip_description:crm.digest_tip_crm_4
 msgid ""
 "Did you know you can search a company by name or VAT number to instantly "
-"fill in all its data? Odoo autocompletes everything for you: logo, address, "
+"fill in all its data? Aly Suite autocompletes everything for you: logo, address, "
 "company size, business information, social media accounts, etc."
 msgstr ""
 "¿Sabía que puede buscar una empresa por su nombre o Número de Identificación"
-" Fiscal para completar todos sus datos de forma instantánea? Odoo "
+" Fiscal para completar todos sus datos de forma instantánea? Aly Suite "
 "autocompleta todo por usted: logo, dirección, tamaño de empresa, información"
 " empresarial, cuentas en redes sociales, etc."
 
@@ -1341,12 +1341,12 @@ msgstr ""
 #: model_terms:digest.tip,tip_description:crm.digest_tip_crm_5
 msgid ""
 "Did you know you can turn a list of opportunities into a map view, using the"
-" top-right map icon? A lot of screens in Odoo can be turned into a map: "
+" top-right map icon? A lot of screens in Aly Suite can be turned into a map: "
 "tasks, contacts, delivery orders, etc."
 msgstr ""
 "¿Sabía que puede convertir una lista de oportunidades en una vista de mapa "
 "con el icono de mapa en la esquina superior derecha? Muchas pantallas en "
-"Odoo pueden convertirse en mapas: tareas, contactos, órdenes de entrega, "
+"Aly Suite pueden convertirse en mapas: tareas, contactos, órdenes de entrega, "
 "etc."
 
 #. module: crm
@@ -2757,23 +2757,23 @@ msgstr "Número de mensajes con error de envío"
 #. module: crm
 #: model_terms:ir.actions.act_window,help:crm.crm_case_form_view_salesteams_opportunity
 msgid ""
-"Odoo helps you keep track of your sales pipeline to follow\n"
+"Aly Suite helps you keep track of your sales pipeline to follow\n"
 "                    up potential sales and better forecast your future revenues."
 msgstr ""
-"Odoo le ayuda a llevar un seguimiento de su flujos de ventas para seguir\n"
+"Aly Suite le ayuda a llevar un seguimiento de su flujos de ventas para seguir\n"
 "                    ventas potenciales y pronosticar mejor sus ingresos futuros."
 
 #. module: crm
 #: model_terms:digest.tip,tip_description:crm.digest_tip_crm_2
 msgid ""
-"Odoo's artificial intelligence engine predicts the success rate of each "
+"Aly Suite's artificial intelligence engine predicts the success rate of each "
 "opportunity based on your history. You can always update the success rate "
-"manually, but if you let Odoo do the job the score is updated while the "
+"manually, but if you let Aly Suite do the job the score is updated while the "
 "opportunity moves forward in your sales cycle."
 msgstr ""
-"El motor de inteligencia artificial de Odoo predice la tasa de éxito de cada"
+"El motor de inteligencia artificial de Aly Suite predice la tasa de éxito de cada"
 " oportunidad según su historial. Siempre puede actualizar la tasa de éxito "
-"de forma manual, pero si deja que Odoo lo haga, se actualiza cuando su "
+"de forma manual, pero si deja que Aly Suite lo haga, se actualiza cuando su "
 "oportunidad avanza en su ciclo de ventas."
 
 #. module: crm
@@ -3640,11 +3640,11 @@ msgstr ""
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_team__alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (Aly Suite Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
-"El modelo (Tipo de documento de Odoo) al que corresponde este alias. "
+"El modelo (Tipo de documento de Aly Suite) al que corresponde este alias. "
 "Cualquier correo entrante que no sea respuesta a un registro existente "
 "causará la creación de un nuevo registro de este modelo (por ejemplo, una "
 "tarea de proyecto)."
@@ -3814,8 +3814,8 @@ msgstr "Consejo: convierta correos electrónicos entrantes en oportunidades"
 #. module: crm
 #: model:digest.tip,name:crm.digest_tip_crm_1
 #: model_terms:digest.tip,tip_description:crm.digest_tip_crm_1
-msgid "Tip: Did you know Odoo has built-in lead mining?"
-msgstr "Consejo: ¿Sabía que Odoo tiene minería de leads integrada?"
+msgid "Tip: Did you know Aly Suite has built-in lead mining?"
+msgstr "Consejo: ¿Sabía que Aly Suite tiene minería de leads integrada?"
 
 #. module: crm
 #: model:digest.tip,name:crm.digest_tip_crm_4
@@ -4220,8 +4220,8 @@ msgstr "p. ej. Demasiado caro"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.odoo.com"
-msgstr "p. ej. https://www.odoo.com"
+msgid "e.g. https://www.aly-ai.com"
+msgstr "p. ej. https://www.aly-ai.com"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.res_config_settings_view_form

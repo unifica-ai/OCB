@@ -13,7 +13,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Aly Suite Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-13 18:35+0000\n"
 "PO-Revision-Date: 2022-09-22 05:55+0000\n"
@@ -1322,7 +1322,7 @@ msgid ""
 "Below text serves as a suggestion and doesn’t engage Odoo S.A. "
 "responsibility."
 msgstr ""
-"El texto a continuación sirve como sugerencia y no hace responsable a Odoo "
+"El texto a continuación sirve como sugerencia y no hace responsable a Aly Suite "
 "S.A."
 
 #. module: stock
@@ -2355,10 +2355,10 @@ msgstr "Rutas predeterminadas a través del almacén"
 #. module: stock
 #: model_terms:ir.actions.act_window,help:stock.action_orderpoint
 msgid ""
-"Define a minimum stock rule so that Odoo automatically creates requests for "
+"Define a minimum stock rule so that Aly Suite automatically creates requests for "
 "quotations or confirmed manufacturing orders to resupply your stock."
 msgstr ""
-"Defina una regla de existencias mínimas para que Odoo cree solicitudes de "
+"Defina una regla de existencias mínimas para que Aly Suite cree solicitudes de "
 "cotización u órdenes de fabricación confirmadas de forma automática para "
 "reabastecer sus existencias."
 
@@ -2371,14 +2371,14 @@ msgstr "Defina un nuevo almacén"
 #: model_terms:ir.actions.act_window,help:stock.action_location_form
 msgid ""
 "Define your locations to reflect your warehouse structure and\n"
-"            organization. Odoo is able to manage physical locations\n"
+"            organization. Aly Suite is able to manage physical locations\n"
 "            (warehouses, shelves, bin, etc), partner locations (customers,\n"
 "            vendors) and virtual locations which are the counterpart of\n"
 "            the stock operations like the manufacturing orders\n"
 "            consumptions, inventories, etc."
 msgstr ""
 "Defina sus ubicaciones para reflejar la estructura de su almacén y de su\n"
-"            organización. Odoo puede gestionar ubicaciones físicas\n"
+"            organización. Aly Suite puede gestionar ubicaciones físicas\n"
 "            (almacenes, estantes, contenedores, etc.), ubicaciones de contactos (clientes,\n"
 "            proveedores) y ubicaciones virtuales que se utilizan como contraparte en\n"
 "            operaciones de existencias como las órdenes de fabricación,\n"
@@ -2890,13 +2890,13 @@ msgstr "Correo electrónico enviado al cliente una vez que se realiza la orden"
 #. module: stock
 #: model_terms:digest.tip,tip_description:stock.digest_tip_stock_0
 msgid ""
-"Enjoy a quick-paced experience with the Odoo barcode app. It is blazing fast"
+"Enjoy a quick-paced experience with the Aly Suite barcode app. It is blazing fast"
 " and works even without a stable internet connection. It supports all flows:"
 " inventory adjustments, batch picking, moving lots or pallets, low inventory"
 " checks, etc. Go to the \"Apps\" menu to activate the barcode interface."
 msgstr ""
 "Disfrute de una experiencia de ritmo rápido con la aplicación Código de "
-"barras de Odoo. Es increíblemente rápida y funciona incluso sin una conexión"
+"barras de Aly Suite. Es increíblemente rápida y funciona incluso sin una conexión"
 " a internet estable. Es compatible con todos los flujos: ajustes de "
 "inventario, recolección por lotes, movimientos por lotes o paletas, "
 "controles de inventario bajo, etc. Vaya al menú \"Aplicaciones\" para "
@@ -2923,15 +2923,15 @@ msgstr "Error"
 #. module: stock
 #: model_terms:ir.actions.act_window,help:stock.action_location_form
 msgid ""
-"Every stock operation in Odoo moves the products from one\n"
+"Every stock operation in Aly Suite moves the products from one\n"
 "            location to another one.  For instance, if you receive products\n"
-"            from a vendor, Odoo will move products from the Vendor\n"
+"            from a vendor, Aly Suite will move products from the Vendor\n"
 "            location to the Stock location. Each report can be performed on\n"
 "            physical, partner or virtual locations."
 msgstr ""
-"Cada operación de existencias en Odoo mueve los productos de una\n"
+"Cada operación de existencias en Aly Suite mueve los productos de una\n"
 "            ubicación a otra. Por ejemplo, si recibe productos\n"
-"            de un proveedor, Odoo moverá los productos de la ubicación del\n"
+"            de un proveedor, Aly Suite moverá los productos de la ubicación del\n"
 "            vendedor a la ubicación de existencias. Se puede analizar reportes\n"
 "            por ubicaciones físicas, de terceros o virtuales."
 
@@ -3602,21 +3602,21 @@ msgstr "Si el mismo número de serie está en otro Quant"
 #: model:ir.model.fields,help:stock.field_stock_picking__show_reserved
 #: model:ir.model.fields,help:stock.field_stock_picking_type__show_reserved
 msgid ""
-"If this checkbox is ticked, Odoo will automatically pre-fill the detailed "
+"If this checkbox is ticked, Aly Suite will automatically pre-fill the detailed "
 "operations with the corresponding products, locations and lot/serial "
 "numbers."
 msgstr ""
-"Si esta casilla se encuentra seleccionada, Odoo completará automáticamente "
+"Si esta casilla se encuentra seleccionada, Aly Suite completará automáticamente "
 "las operaciones detalladas con los productos, ubicaciones y números de "
 "lote/de serie correspondientes."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_picking_type__auto_show_reception_report
 msgid ""
-"If this checkbox is ticked, Odoo will automatically show the reception "
+"If this checkbox is ticked, Aly Suite will automatically show the reception "
 "report (if there are moves to allocate to) when validating."
 msgstr ""
-"Si selecciona esta casilla, Odoo mostrará de forma automática el reporte de "
+"Si selecciona esta casilla, Aly Suite mostrará de forma automática el reporte de "
 "recepción (si hay movimientos a lo que asignar) al asignar."
 
 #. module: stock
@@ -4118,13 +4118,13 @@ msgid ""
 "\n"
 "You can fix the discrepancies by clicking on the button below.\n"
 "The correction will remove the reservation of the impacted operations on all companies.\n"
-"If the error persists, or you see this message appear often, please submit a Support Ticket at https://www.odoo.com/help"
+"If the error persists, or you see this message appear often, please submit a Support Ticket at https://www.aly-ai.com/help"
 msgstr ""
 "No es posible reservar más productos que los %s que tiene en sus existencias.\n"
 "\n"
 "Haga clic en el botón que se encuentra abajo para corregir las discrepancias.\n"
 "La corrección eliminará la reserva de las operaciones afectadas en todas las empresas.\n"
-"Si el error continúa o si este mensaje aparece con frecuencia, envíe un ticket de soporte a https://www.odoo.com/help"
+"Si el error continúa o si este mensaje aparece con frecuencia, envíe un ticket de soporte a https://www.aly-ai.com/help"
 
 #. module: stock
 #. odoo-python
@@ -9823,22 +9823,22 @@ msgstr ""
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint__product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field,"
-" Odoo generates a procurement to bring the forecasted quantity to the Max "
+" Aly Suite generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
 msgstr ""
 "Cuando las existencias virtuales estén por debajo de la cantidad mínima "
-"especificada para este campo, Odoo genera un aprovisionamiento para llevar "
+"especificada para este campo, Aly Suite genera un aprovisionamiento para llevar "
 "la cantidad pronosticada a la cantidad máxima."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint__product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, Aly Suite generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
 msgstr ""
 "Cuando las existencias virtuales estén por debajo de la cantidad mínima, "
-"Odoo generará un aprovisionamiento para llevar la cantidad pronosticada a la"
+"Aly Suite generará un aprovisionamiento para llevar la cantidad pronosticada a la"
 " cantidad especificada como cantidad máxima."
 
 #. module: stock
@@ -10309,10 +10309,10 @@ msgstr "Creó líneas de productos manualmente, elimínelas para continuar."
 #: model_terms:ir.ui.view,arch_db:stock.view_immediate_transfer
 msgid ""
 "You have not recorded <i>done</i> quantities yet, by clicking on "
-"<i>apply</i> Odoo will process all the quantities."
+"<i>apply</i> Aly Suite will process all the quantities."
 msgstr ""
 "Aún no ha registrado las cantidades <i>hechas</i> , al hacer clic en "
-"<i>aplicar,</i> Odoo procesará todas las cantidades."
+"<i>aplicar,</i> Aly Suite procesará todas las cantidades."
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.view_backorder_confirmation
